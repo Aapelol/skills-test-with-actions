@@ -54,7 +54,6 @@ def test_get_nth_fibonacci_one():
     # Act
     result = get_nth_fibonacci(n)
 
-    # Assert
     assert result == 1
 
 
